@@ -23,6 +23,7 @@
     <None Include="res\spiwavmfc.ico">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="spi.licenseheader" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="spiwavmfc.h">

@@ -97,6 +97,7 @@
     <None Include="ReadMe.txt" />
     <None Include="res\spiwavmfc.ico" />
     <None Include="res\spiwavmfc.rc2" />
+    <None Include="spi.licenseheader" />
     <None Include="spiwavmfc.htm">
       <DeploymentContent>true</DeploymentContent>
     </None>
